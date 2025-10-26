@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey! I'm Sajjan Kumar 👋
 
-<!--
-**sajjannnn/sajjannnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer 
 
-Here are some ideas to get you started:
+## 💼 About Me  
+- 🌍 Based in **New Delhi,India**
+- Reach out me  [Email Me](mailto:sajjaanaasht@gmail.com) or [Twitter](https://twitter.com/ctrlsazz)
+- Working with **MERN, NextJs, Typescript** nowdays!
+- 
+## 🧰 Tools & Technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript/TypeScript, HTML, CSS  
+- **Frameworks/Libraries:** React.js, Next.js, Nodej.js/Express.js.  
+- **Databases:** MongoDB, PostgreSQL.
+- **Version Control:** Git & GitHub.
+- **ORM:** Prisma, Mongoose.
+- **Misc:** Docker,TailwindCSS.
+
+
+## 🌱 Current Goals  
+- Building real-world MERN stack projects  
+- Improving clean code & problem-solving skills  
+- Learning deployment and DevOps basics  
+
+
+## 📫 Connect With Me  
+- [X/Twitter](https://twitter.com/ctrlsazz)
+- [LinkedIn](https://linkedin.com/in/sajjan-kumar18)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=sajjannnn&theme=tokyonight&hide_border=false)<br/>
+[![](https://visitcount.itsvg.in/api?id=sajjannnn&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+*Be Curious*  
