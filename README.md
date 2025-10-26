@@ -6,7 +6,6 @@
 - 🌍 Based in **New Delhi,India**
 - Reach out me  [Email Me](mailto:sajjaanaasht@gmail.com) or [Twitter](https://twitter.com/ctrlsazz)
 - Working with **MERN, NextJs, Typescript** nowdays!
-- 
 ## 🧰 Tools & Technologies  
 
 - **Languages:** JavaScript/TypeScript, HTML, CSS  
